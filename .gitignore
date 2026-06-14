@@ -1,0 +1,14 @@
+# Binaries
+hackathon_squad
+main
+analyze
+checker
+verify_*
+
+# macOS
+.DS_Store
+
+# Build artifacts
+*.o
+*.out
+*.dSYM/
